@@ -1,0 +1,254 @@
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\smsX for Windows.exe.config
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\smsX for Windows.exe
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\smsX for Windows.pdb
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\smsX for Windows.xml
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\MaterialSkin.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.vbprojAssemblyReference.cache
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX_for_Windows.Form1.resources
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX_for_Windows.Resources.resources
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.vbproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.vbproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.vbproj.CopyComplete
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.exe
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.xml
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.pdb
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Clockwork.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Clockwork.pdb
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX_for_Windows.Form2.resources
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\IrcDotNet.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\smsX for Windows.exe.config
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\smsX for Windows.exe
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\smsX for Windows.pdb
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\smsX for Windows.xml
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\netstandard.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.AppContext.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Collections.Concurrent.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Collections.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Collections.NonGeneric.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Collections.Specialized.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.ComponentModel.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.ComponentModel.Primitives.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Console.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Data.Common.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Contracts.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Debug.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Process.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Tools.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Tracing.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Drawing.Primitives.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Dynamic.Runtime.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Globalization.Calendars.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Globalization.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Globalization.Extensions.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.Compression.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.FileSystem.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.IsolatedStorage.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.Pipes.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Linq.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Linq.Expressions.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Linq.Parallel.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Linq.Queryable.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Http.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.NameResolution.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.NetworkInformation.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Ping.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Primitives.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Requests.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Security.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Sockets.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.WebSockets.Client.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Net.WebSockets.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.ObjectModel.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Reflection.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Reflection.Extensions.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Reflection.Primitives.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Resources.Reader.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Resources.ResourceManager.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Resources.Writer.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Extensions.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Handles.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.InteropServices.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Numerics.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Claims.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Principal.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Security.SecureString.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Text.Encoding.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Text.RegularExpressions.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Overlapped.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Tasks.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Thread.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.ThreadPool.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Timer.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.ValueTuple.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.ReaderWriter.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XDocument.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XmlDocument.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XmlSerializer.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XPath.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Clockwork.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\IrcDotNet.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\MaterialSkin.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Microsoft.IdentityModel.Logging.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Newtonsoft.Json.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Twilio.dll
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Clockwork.pdb
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Newtonsoft.Json.xml
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+G:\Code\smsX for Windows\smsX for Windows\bin\Debug\Twilio.xml
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.vbprojAssemblyReference.cache
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.exe.config
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX_for_Windows.Form1.resources
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX_for_Windows.Form2.resources
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX_for_Windows.Resources.resources
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.vbproj.GenerateResource.cache
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.vbproj.CoreCompileInputs.cache
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.vbproj.CopyComplete
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.exe
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.xml
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.pdb
+G:\Code\smsX for Windows\smsX for Windows\obj\Debug\smsX_for_Windows.Form3.resources
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\netstandard.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.AppContext.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Collections.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.ComponentModel.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Console.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Data.Common.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Globalization.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.Compression.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.Pipes.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Linq.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Http.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Ping.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Primitives.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Requests.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Security.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.Sockets.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.ObjectModel.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Reflection.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Resources.Reader.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Resources.Writer.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Claims.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Security.Principal.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Security.SecureString.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Text.Encoding.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Thread.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Threading.Timer.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.ValueTuple.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XPath.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Twilio.dll
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\bin\Debug\Twilio.xml
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX for Windows.exe.config
+C:\Users\Matthew\source\repos\smsX for Windows\smsX for Windows\obj\Debug\smsX_for_Windows.Form3.resources
