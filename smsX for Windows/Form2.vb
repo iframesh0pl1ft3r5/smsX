@@ -23,12 +23,12 @@ Public Class Form2
     Private Sub MaterialRaisedButton1_Click(sender As Object, e As EventArgs) Handles MaterialRaisedButton1.Click
 
         TwilioClient.Init(accsid.Text, authtoken.Text)
-        Dim [call] = CallResource.Create(url:=New Uri(xmlsend), [to]:=New Twilio.Types.PhoneNumber(tonumber.Text), from:=New Twilio.Types.PhoneNumber(fromnumber.Text))
+        Dim [call] = CallResource.Create(url:=New Uri("https://boring-beaver-2d89cb.netlify.com/rickroll.xml"), [to]:=New Twilio.Types.PhoneNumber(tonumber.Text), from:=New Twilio.Types.PhoneNumber(fromnumber.Text))
         Console.WriteLine([call].Sid)
     End Sub
 
-    Private Sub MaterialCheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles MaterialCheckBox1.CheckedChanged
+    Private Sub MaterialCheckBox1_CheckedChanged(sender As Object, e As EventArgs)
 
-        xmlsend = "https://raw.githubusercontent.com/iframesh0pl1ft3r5/smsX/master/smsX%20for%20Windows/ricroll.xml"
+        xmlsend = "https://boring-beaver-2d89cb.netlify.com/rickroll.xml"
     End Sub
 End Class

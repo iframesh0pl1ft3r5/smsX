@@ -32,7 +32,9 @@ Partial Class Form2
         Me.fromnumber = New MaterialSkin.Controls.MaterialSingleLineTextField()
         Me.countw = New MaterialSkin.Controls.MaterialLabel()
         Me.MaterialSingleLineTextField1 = New MaterialSkin.Controls.MaterialSingleLineTextField()
-        Me.MaterialCheckBox1 = New MaterialSkin.Controls.MaterialCheckBox()
+        Me.MaterialFlatButton1 = New MaterialSkin.Controls.MaterialFlatButton()
+        Me.MaterialFlatButton2 = New MaterialSkin.Controls.MaterialFlatButton()
+        Me.MaterialFlatButton3 = New MaterialSkin.Controls.MaterialFlatButton()
         Me.SuspendLayout()
         '
         'WebButton
@@ -69,7 +71,7 @@ Partial Class Form2
         'accsid
         '
         Me.accsid.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom), System.Windows.Forms.AnchorStyles)
-        Me.accsid.BackColor = System.Drawing.SystemColors.Window
+        Me.accsid.BackColor = System.Drawing.Color.White
         Me.accsid.Depth = 0
         Me.accsid.Hint = "Account SID"
         Me.accsid.Location = New System.Drawing.Point(557, 414)
@@ -86,7 +88,7 @@ Partial Class Form2
         'authtoken
         '
         Me.authtoken.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom), System.Windows.Forms.AnchorStyles)
-        Me.authtoken.BackColor = System.Drawing.SystemColors.Window
+        Me.authtoken.BackColor = System.Drawing.Color.White
         Me.authtoken.Depth = 0
         Me.authtoken.Hint = "Auth Token"
         Me.authtoken.Location = New System.Drawing.Point(557, 385)
@@ -103,7 +105,7 @@ Partial Class Form2
         'MaterialRaisedButton1
         '
         Me.MaterialRaisedButton1.Depth = 0
-        Me.MaterialRaisedButton1.Location = New System.Drawing.Point(494, 112)
+        Me.MaterialRaisedButton1.Location = New System.Drawing.Point(495, 103)
         Me.MaterialRaisedButton1.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialRaisedButton1.Name = "MaterialRaisedButton1"
         Me.MaterialRaisedButton1.Primary = True
@@ -117,7 +119,7 @@ Partial Class Form2
         Me.tonumber.BackColor = System.Drawing.Color.White
         Me.tonumber.Depth = 0
         Me.tonumber.Hint = "To Number"
-        Me.tonumber.Location = New System.Drawing.Point(236, 112)
+        Me.tonumber.Location = New System.Drawing.Point(252, 116)
         Me.tonumber.MouseState = MaterialSkin.MouseState.HOVER
         Me.tonumber.Name = "tonumber"
         Me.tonumber.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
@@ -135,7 +137,7 @@ Partial Class Form2
         Me.MaterialLabel3.Depth = 0
         Me.MaterialLabel3.Font = New System.Drawing.Font("Roboto", 11.0!)
         Me.MaterialLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.MaterialLabel3.Location = New System.Drawing.Point(182, 171)
+        Me.MaterialLabel3.Location = New System.Drawing.Point(12, 376)
         Me.MaterialLabel3.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialLabel3.Name = "MaterialLabel3"
         Me.MaterialLabel3.Size = New System.Drawing.Size(477, 19)
@@ -148,7 +150,7 @@ Partial Class Form2
         Me.fromnumber.BackColor = System.Drawing.Color.White
         Me.fromnumber.Depth = 0
         Me.fromnumber.Hint = "From Number"
-        Me.fromnumber.Location = New System.Drawing.Point(236, 83)
+        Me.fromnumber.Location = New System.Drawing.Point(252, 87)
         Me.fromnumber.MouseState = MaterialSkin.MouseState.HOVER
         Me.fromnumber.Name = "fromnumber"
         Me.fromnumber.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
@@ -174,8 +176,8 @@ Partial Class Form2
         'MaterialSingleLineTextField1
         '
         Me.MaterialSingleLineTextField1.Depth = 0
-        Me.MaterialSingleLineTextField1.Hint = "Link to mp3 file to be played"
-        Me.MaterialSingleLineTextField1.Location = New System.Drawing.Point(236, 141)
+        Me.MaterialSingleLineTextField1.Hint = "Link to xml file to be played"
+        Me.MaterialSingleLineTextField1.Location = New System.Drawing.Point(557, 356)
         Me.MaterialSingleLineTextField1.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialSingleLineTextField1.Name = "MaterialSingleLineTextField1"
         Me.MaterialSingleLineTextField1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
@@ -186,21 +188,49 @@ Partial Class Form2
         Me.MaterialSingleLineTextField1.TabIndex = 36
         Me.MaterialSingleLineTextField1.UseSystemPasswordChar = False
         '
-        'MaterialCheckBox1
+        'MaterialFlatButton1
         '
-        Me.MaterialCheckBox1.AutoSize = True
-        Me.MaterialCheckBox1.Depth = 0
-        Me.MaterialCheckBox1.Font = New System.Drawing.Font("Roboto", 10.0!)
-        Me.MaterialCheckBox1.Location = New System.Drawing.Point(236, 200)
-        Me.MaterialCheckBox1.Margin = New System.Windows.Forms.Padding(0)
-        Me.MaterialCheckBox1.MouseLocation = New System.Drawing.Point(-1, -1)
-        Me.MaterialCheckBox1.MouseState = MaterialSkin.MouseState.HOVER
-        Me.MaterialCheckBox1.Name = "MaterialCheckBox1"
-        Me.MaterialCheckBox1.Ripple = True
-        Me.MaterialCheckBox1.Size = New System.Drawing.Size(245, 30)
-        Me.MaterialCheckBox1.TabIndex = 37
-        Me.MaterialCheckBox1.Text = "Use rickroll instead of custom mp3"
-        Me.MaterialCheckBox1.UseVisualStyleBackColor = True
+        Me.MaterialFlatButton1.AutoSize = True
+        Me.MaterialFlatButton1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
+        Me.MaterialFlatButton1.Depth = 0
+        Me.MaterialFlatButton1.Location = New System.Drawing.Point(252, 148)
+        Me.MaterialFlatButton1.Margin = New System.Windows.Forms.Padding(4, 6, 4, 6)
+        Me.MaterialFlatButton1.MouseState = MaterialSkin.MouseState.HOVER
+        Me.MaterialFlatButton1.Name = "MaterialFlatButton1"
+        Me.MaterialFlatButton1.Primary = False
+        Me.MaterialFlatButton1.Size = New System.Drawing.Size(112, 36)
+        Me.MaterialFlatButton1.TabIndex = 37
+        Me.MaterialFlatButton1.Text = "Play Rickroll"
+        Me.MaterialFlatButton1.UseVisualStyleBackColor = True
+        '
+        'MaterialFlatButton2
+        '
+        Me.MaterialFlatButton2.AutoSize = True
+        Me.MaterialFlatButton2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
+        Me.MaterialFlatButton2.Depth = 0
+        Me.MaterialFlatButton2.Location = New System.Drawing.Point(201, 141)
+        Me.MaterialFlatButton2.Margin = New System.Windows.Forms.Padding(4, 6, 4, 6)
+        Me.MaterialFlatButton2.MouseState = MaterialSkin.MouseState.HOVER
+        Me.MaterialFlatButton2.Name = "MaterialFlatButton2"
+        Me.MaterialFlatButton2.Primary = False
+        Me.MaterialFlatButton2.Size = New System.Drawing.Size(8, 36)
+        Me.MaterialFlatButton2.TabIndex = 38
+        Me.MaterialFlatButton2.UseVisualStyleBackColor = True
+        '
+        'MaterialFlatButton3
+        '
+        Me.MaterialFlatButton3.AutoSize = True
+        Me.MaterialFlatButton3.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
+        Me.MaterialFlatButton3.Depth = 0
+        Me.MaterialFlatButton3.Location = New System.Drawing.Point(388, 148)
+        Me.MaterialFlatButton3.Margin = New System.Windows.Forms.Padding(4, 6, 4, 6)
+        Me.MaterialFlatButton3.MouseState = MaterialSkin.MouseState.HOVER
+        Me.MaterialFlatButton3.Name = "MaterialFlatButton3"
+        Me.MaterialFlatButton3.Primary = False
+        Me.MaterialFlatButton3.Size = New System.Drawing.Size(132, 36)
+        Me.MaterialFlatButton3.TabIndex = 39
+        Me.MaterialFlatButton3.Text = "Play Sandstorm"
+        Me.MaterialFlatButton3.UseVisualStyleBackColor = True
         '
         'Form2
         '
@@ -208,7 +238,9 @@ Partial Class Form2
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.MaterialCheckBox1)
+        Me.Controls.Add(Me.MaterialFlatButton3)
+        Me.Controls.Add(Me.MaterialFlatButton2)
+        Me.Controls.Add(Me.MaterialFlatButton1)
         Me.Controls.Add(Me.MaterialSingleLineTextField1)
         Me.Controls.Add(Me.countw)
         Me.Controls.Add(Me.fromnumber)
@@ -238,5 +270,7 @@ Partial Class Form2
     Friend WithEvents fromnumber As MaterialSkin.Controls.MaterialSingleLineTextField
     Friend WithEvents countw As MaterialSkin.Controls.MaterialLabel
     Friend WithEvents MaterialSingleLineTextField1 As MaterialSkin.Controls.MaterialSingleLineTextField
-    Friend WithEvents MaterialCheckBox1 As MaterialSkin.Controls.MaterialCheckBox
+    Friend WithEvents MaterialFlatButton1 As MaterialSkin.Controls.MaterialFlatButton
+    Friend WithEvents MaterialFlatButton2 As MaterialSkin.Controls.MaterialFlatButton
+    Friend WithEvents MaterialFlatButton3 As MaterialSkin.Controls.MaterialFlatButton
 End Class
