@@ -35,6 +35,7 @@ Partial Class Form1
         Me.MaterialRadioButton1 = New MaterialSkin.Controls.MaterialRadioButton()
         Me.MaterialRadioButton2 = New MaterialSkin.Controls.MaterialRadioButton()
         Me.MaterialSingleLineTextField2 = New MaterialSkin.Controls.MaterialSingleLineTextField()
+        Me.MaterialLabel3 = New MaterialSkin.Controls.MaterialLabel()
         Me.SuspendLayout()
         '
         'MaterialSingleLineTextField1
@@ -184,9 +185,9 @@ Partial Class Form1
         Me.MaterialLabel2.Location = New System.Drawing.Point(531, 71)
         Me.MaterialLabel2.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialLabel2.Name = "MaterialLabel2"
-        Me.MaterialLabel2.Size = New System.Drawing.Size(257, 19)
+        Me.MaterialLabel2.Size = New System.Drawing.Size(253, 19)
         Me.MaterialLabel2.TabIndex = 10
-        Me.MaterialLabel2.Text = "Supports: ClockworkSMS and Twillio"
+        Me.MaterialLabel2.Text = "Supports: ClockworkSMS and Twilio"
         '
         'MaterialRadioButton1
         '
@@ -217,9 +218,9 @@ Partial Class Form1
         Me.MaterialRadioButton2.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialRadioButton2.Name = "MaterialRadioButton2"
         Me.MaterialRadioButton2.Ripple = True
-        Me.MaterialRadioButton2.Size = New System.Drawing.Size(69, 30)
+        Me.MaterialRadioButton2.Size = New System.Drawing.Size(66, 30)
         Me.MaterialRadioButton2.TabIndex = 12
-        Me.MaterialRadioButton2.Text = "Twillio"
+        Me.MaterialRadioButton2.Text = "Twilio"
         Me.MaterialRadioButton2.UseVisualStyleBackColor = True
         '
         'MaterialSingleLineTextField2
@@ -240,12 +241,27 @@ Partial Class Form1
         Me.MaterialSingleLineTextField2.UseSystemPasswordChar = False
         Me.MaterialSingleLineTextField2.Visible = False
         '
+        'MaterialLabel3
+        '
+        Me.MaterialLabel3.AutoSize = True
+        Me.MaterialLabel3.Depth = 0
+        Me.MaterialLabel3.Font = New System.Drawing.Font("Roboto", 11.0!)
+        Me.MaterialLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.MaterialLabel3.Location = New System.Drawing.Point(6, 386)
+        Me.MaterialLabel3.MouseState = MaterialSkin.MouseState.HOVER
+        Me.MaterialLabel3.Name = "MaterialLabel3"
+        Me.MaterialLabel3.Size = New System.Drawing.Size(550, 19)
+        Me.MaterialLabel3.TabIndex = 14
+        Me.MaterialLabel3.Text = "Note: While sending messages from Twilio, a extension code is required. eg: +44"
+        Me.MaterialLabel3.Visible = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Window
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.MaterialLabel3)
         Me.Controls.Add(Me.MaterialSingleLineTextField2)
         Me.Controls.Add(Me.MaterialRadioButton2)
         Me.Controls.Add(Me.MaterialRadioButton1)
@@ -281,4 +297,5 @@ Partial Class Form1
     Friend WithEvents MaterialRadioButton2 As MaterialSkin.Controls.MaterialRadioButton
     Friend WithEvents MaterialSingleLineTextField2 As MaterialSkin.Controls.MaterialSingleLineTextField
     Public WithEvents MaterialSingleLineTextField1 As MaterialSkin.Controls.MaterialSingleLineTextField
+    Friend WithEvents MaterialLabel3 As MaterialSkin.Controls.MaterialLabel
 End Class

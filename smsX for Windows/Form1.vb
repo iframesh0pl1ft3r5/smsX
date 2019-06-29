@@ -69,6 +69,7 @@ Public Class Form1
         MaterialSingleLineTextField2.Visible = True
         MaterialSingleLineTextField1.Clear()
         MaterialSingleLineTextField2.Clear()
+        MaterialLabel3.Visible = False
 
     End Sub
 
@@ -77,6 +78,7 @@ Public Class Form1
         MaterialSingleLineTextField2.Visible = False
         MaterialSingleLineTextField2.Clear()
         MaterialSingleLineTextField1.Clear()
+        MaterialLabel3.Visible = True
 
     End Sub
 End Class
