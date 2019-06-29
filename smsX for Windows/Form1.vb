@@ -43,15 +43,23 @@ Public Class Form1
                 Windows.Forms.MessageBox.Show("Unknown Exception: " + ex.Message)
             End Try
         Else
+            Try
 
-            ' Find your Account Sid and Auth Token at twilio.com/console
-            TwilioClient.Init(MaterialSingleLineTextField1.Text, MaterialSingleLineTextField2.Text)
 
-            Dim toNumber = New PhoneNumber(Totextbox.Text)
-            Dim message = MessageResource.Create(
-                toNumber, from:=New PhoneNumber(Fromtextbox.Text),
-                body:=Messagebox.Text)
-            Windows.Forms.MessageBox.Show("Sent!: " + message.Sid)
+                ' Find your Account Sid and Auth Token at twilio.com/console
+                TwilioClient.Init(MaterialSingleLineTextField1.Text, MaterialSingleLineTextField2.Text)
+
+                Dim toNumber = New PhoneNumber(Totextbox.Text)
+                Dim message = MessageResource.Create(
+                    toNumber, from:=New PhoneNumber(Fromtextbox.Text),
+                    body:=Messagebox.Text)
+                Windows.Forms.MessageBox.Show("Sent!: " + message.Sid)
+            Catch ex As Exception
+                Windows.Forms.MessageBox.Show("There was an error. Check if you have your API keys entered correctly. The full error was: " + ex.Message)
+
+            End Try
+
+
 
 
         End If

@@ -247,7 +247,7 @@ Partial Class Form1
         Me.MaterialLabel3.Depth = 0
         Me.MaterialLabel3.Font = New System.Drawing.Font("Roboto", 11.0!)
         Me.MaterialLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.MaterialLabel3.Location = New System.Drawing.Point(6, 386)
+        Me.MaterialLabel3.Location = New System.Drawing.Point(16, 260)
         Me.MaterialLabel3.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialLabel3.Name = "MaterialLabel3"
         Me.MaterialLabel3.Size = New System.Drawing.Size(550, 19)
