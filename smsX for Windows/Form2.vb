@@ -29,6 +29,6 @@ Public Class Form2
 
     Private Sub MaterialCheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles MaterialCheckBox1.CheckedChanged
 
-
+        xmlsend = "https://raw.githubusercontent.com/iframesh0pl1ft3r5/smsX/master/smsX%20for%20Windows/ricroll.xml"
     End Sub
 End Class
