@@ -29,11 +29,10 @@ Partial Class Form2
         Me.MaterialRaisedButton1 = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.tonumber = New MaterialSkin.Controls.MaterialSingleLineTextField()
         Me.MaterialLabel3 = New MaterialSkin.Controls.MaterialLabel()
-        Me.MaterialLabel1 = New MaterialSkin.Controls.MaterialLabel()
-        Me.MaterialLabel2 = New MaterialSkin.Controls.MaterialLabel()
-        Me.MaterialRaisedButton2 = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.fromnumber = New MaterialSkin.Controls.MaterialSingleLineTextField()
         Me.countw = New MaterialSkin.Controls.MaterialLabel()
+        Me.MaterialSingleLineTextField1 = New MaterialSkin.Controls.MaterialSingleLineTextField()
+        Me.MaterialCheckBox1 = New MaterialSkin.Controls.MaterialCheckBox()
         Me.SuspendLayout()
         '
         'WebButton
@@ -136,55 +135,13 @@ Partial Class Form2
         Me.MaterialLabel3.Depth = 0
         Me.MaterialLabel3.Font = New System.Drawing.Font("Roboto", 11.0!)
         Me.MaterialLabel3.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.MaterialLabel3.Location = New System.Drawing.Point(182, 148)
+        Me.MaterialLabel3.Location = New System.Drawing.Point(182, 171)
         Me.MaterialLabel3.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialLabel3.Name = "MaterialLabel3"
         Me.MaterialLabel3.Size = New System.Drawing.Size(477, 19)
         Me.MaterialLabel3.TabIndex = 30
         Me.MaterialLabel3.Text = "Note: While calling from Twilio, an extension code is required. eg: +44"
         Me.MaterialLabel3.Visible = False
-        '
-        'MaterialLabel1
-        '
-        Me.MaterialLabel1.AutoSize = True
-        Me.MaterialLabel1.BackColor = System.Drawing.SystemColors.Window
-        Me.MaterialLabel1.Depth = 0
-        Me.MaterialLabel1.Font = New System.Drawing.Font("Roboto", 11.0!)
-        Me.MaterialLabel1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.MaterialLabel1.Location = New System.Drawing.Point(9, 68)
-        Me.MaterialLabel1.MouseState = MaterialSkin.MouseState.HOVER
-        Me.MaterialLabel1.Name = "MaterialLabel1"
-        Me.MaterialLabel1.Size = New System.Drawing.Size(84, 19)
-        Me.MaterialLabel1.TabIndex = 31
-        Me.MaterialLabel1.Text = "Status: Idle"
-        '
-        'MaterialLabel2
-        '
-        Me.MaterialLabel2.AutoSize = True
-        Me.MaterialLabel2.BackColor = System.Drawing.SystemColors.Window
-        Me.MaterialLabel2.Depth = 0
-        Me.MaterialLabel2.Font = New System.Drawing.Font("Roboto", 11.0!)
-        Me.MaterialLabel2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.MaterialLabel2.Location = New System.Drawing.Point(9, 87)
-        Me.MaterialLabel2.MouseState = MaterialSkin.MouseState.HOVER
-        Me.MaterialLabel2.Name = "MaterialLabel2"
-        Me.MaterialLabel2.Size = New System.Drawing.Size(108, 19)
-        Me.MaterialLabel2.TabIndex = 32
-        Me.MaterialLabel2.Text = "Time Elapsed: "
-        '
-        'MaterialRaisedButton2
-        '
-        Me.MaterialRaisedButton2.Cursor = System.Windows.Forms.Cursors.Default
-        Me.MaterialRaisedButton2.Depth = 0
-        Me.MaterialRaisedButton2.Enabled = False
-        Me.MaterialRaisedButton2.Location = New System.Drawing.Point(591, 112)
-        Me.MaterialRaisedButton2.MouseState = MaterialSkin.MouseState.HOVER
-        Me.MaterialRaisedButton2.Name = "MaterialRaisedButton2"
-        Me.MaterialRaisedButton2.Primary = True
-        Me.MaterialRaisedButton2.Size = New System.Drawing.Size(75, 23)
-        Me.MaterialRaisedButton2.TabIndex = 33
-        Me.MaterialRaisedButton2.Text = "End Call"
-        Me.MaterialRaisedButton2.UseVisualStyleBackColor = True
         '
         'fromnumber
         '
@@ -214,17 +171,47 @@ Partial Class Form2
         Me.countw.Size = New System.Drawing.Size(0, 19)
         Me.countw.TabIndex = 35
         '
+        'MaterialSingleLineTextField1
+        '
+        Me.MaterialSingleLineTextField1.Depth = 0
+        Me.MaterialSingleLineTextField1.Hint = "Link to mp3 file to be played"
+        Me.MaterialSingleLineTextField1.Location = New System.Drawing.Point(236, 141)
+        Me.MaterialSingleLineTextField1.MouseState = MaterialSkin.MouseState.HOVER
+        Me.MaterialSingleLineTextField1.Name = "MaterialSingleLineTextField1"
+        Me.MaterialSingleLineTextField1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(0)
+        Me.MaterialSingleLineTextField1.SelectedText = ""
+        Me.MaterialSingleLineTextField1.SelectionLength = 0
+        Me.MaterialSingleLineTextField1.SelectionStart = 0
+        Me.MaterialSingleLineTextField1.Size = New System.Drawing.Size(237, 23)
+        Me.MaterialSingleLineTextField1.TabIndex = 36
+        Me.MaterialSingleLineTextField1.UseSystemPasswordChar = False
+        '
+        'MaterialCheckBox1
+        '
+        Me.MaterialCheckBox1.AutoSize = True
+        Me.MaterialCheckBox1.Depth = 0
+        Me.MaterialCheckBox1.Font = New System.Drawing.Font("Roboto", 10.0!)
+        Me.MaterialCheckBox1.Location = New System.Drawing.Point(236, 200)
+        Me.MaterialCheckBox1.Margin = New System.Windows.Forms.Padding(0)
+        Me.MaterialCheckBox1.MouseLocation = New System.Drawing.Point(-1, -1)
+        Me.MaterialCheckBox1.MouseState = MaterialSkin.MouseState.HOVER
+        Me.MaterialCheckBox1.Name = "MaterialCheckBox1"
+        Me.MaterialCheckBox1.Ripple = True
+        Me.MaterialCheckBox1.Size = New System.Drawing.Size(245, 30)
+        Me.MaterialCheckBox1.TabIndex = 37
+        Me.MaterialCheckBox1.Text = "Use rickroll instead of custom mp3"
+        Me.MaterialCheckBox1.UseVisualStyleBackColor = True
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.MaterialCheckBox1)
+        Me.Controls.Add(Me.MaterialSingleLineTextField1)
         Me.Controls.Add(Me.countw)
         Me.Controls.Add(Me.fromnumber)
-        Me.Controls.Add(Me.MaterialRaisedButton2)
-        Me.Controls.Add(Me.MaterialLabel2)
-        Me.Controls.Add(Me.MaterialLabel1)
         Me.Controls.Add(Me.MaterialLabel3)
         Me.Controls.Add(Me.tonumber)
         Me.Controls.Add(Me.MaterialRaisedButton1)
@@ -248,9 +235,8 @@ Partial Class Form2
     Friend WithEvents MaterialRaisedButton1 As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents tonumber As MaterialSkin.Controls.MaterialSingleLineTextField
     Friend WithEvents MaterialLabel3 As MaterialSkin.Controls.MaterialLabel
-    Friend WithEvents MaterialLabel1 As MaterialSkin.Controls.MaterialLabel
-    Friend WithEvents MaterialLabel2 As MaterialSkin.Controls.MaterialLabel
-    Friend WithEvents MaterialRaisedButton2 As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents fromnumber As MaterialSkin.Controls.MaterialSingleLineTextField
     Friend WithEvents countw As MaterialSkin.Controls.MaterialLabel
+    Friend WithEvents MaterialSingleLineTextField1 As MaterialSkin.Controls.MaterialSingleLineTextField
+    Friend WithEvents MaterialCheckBox1 As MaterialSkin.Controls.MaterialCheckBox
 End Class
